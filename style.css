@@ -1,0 +1,16 @@
+body {
+  background-color: #c1c2c4;
+  margin: 0;
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+}
+
+rect {
+  fill: steelblue;
+}
+
+text {
+  font-size: 1.4em;
+  font-family: sans-serif;
+}
